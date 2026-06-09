@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-label="AKSARA project preview">
+  <rect width="1600" height="1000" rx="64" fill="#081120"/>
+  <circle cx="320" cy="200" r="220" fill="#003DA7" fill-opacity=".22"/>
+  <circle cx="1320" cy="760" r="260" fill="#FFE401" fill-opacity=".16"/>
+  <rect x="80" y="80" width="1440" height="840" rx="44" fill="#0b1628" stroke="#ffffff" stroke-opacity=".1"/>
+  <rect x="120" y="120" width="360" height="760" rx="32" fill="#ffffff" fill-opacity=".07"/>
+  <rect x="530" y="120" width="930" height="140" rx="28" fill="#ffffff" fill-opacity=".07"/>
+  <rect x="530" y="290" width="930" height="300" rx="28" fill="#ffffff" fill-opacity=".07"/>
+  <rect x="530" y="620" width="930" height="260" rx="28" fill="#ffffff" fill-opacity=".07"/>
+  <text x="170" y="220" fill="#ffffff" font-size="42" font-weight="700" font-family="Inter, Arial, sans-serif">AKSARA</text>
+  <text x="170" y="280" fill="#cbd5e1" font-size="22" font-family="Inter, Arial, sans-serif">Student management system</text>
+  <rect x="170" y="410" width="240" height="22" rx="11" fill="#ffffff" fill-opacity=".20"/>
+  <rect x="170" y="460" width="280" height="22" rx="11" fill="#ffffff" fill-opacity=".14"/>
+  <rect x="170" y="510" width="220" height="22" rx="11" fill="#ffffff" fill-opacity=".12"/>
+  <circle cx="1150" cy="420" r="110" fill="#389FE1" fill-opacity=".22"/>
+  <text x="1150" y="440" text-anchor="middle" fill="#ffffff" font-size="40" font-weight="700" font-family="Inter, Arial, sans-serif">MySQL</text>
+  <text x="560" y="180" fill="#ffffff" font-size="32" font-weight="700" font-family="Inter, Arial, sans-serif">Academic workflow</text>
+  <text x="560" y="360" fill="#ffffff" font-size="32" font-weight="700" font-family="Inter, Arial, sans-serif">Achievement tracking</text>
+  <text x="560" y="700" fill="#ffffff" font-size="32" font-weight="700" font-family="Inter, Arial, sans-serif">Responsive admin panel</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Troubleshooting and debugging certificate placeholder">
+  <rect width="1200" height="900" rx="56" fill="#081120"/>
+  <rect x="60" y="60" width="1080" height="780" rx="40" fill="#0b1628" stroke="#ffffff" stroke-opacity=".1"/>
+  <circle cx="300" cy="190" r="180" fill="#389FE1" fill-opacity=".18"/>
+  <circle cx="980" cy="760" r="200" fill="#FFE401" fill-opacity=".16"/>
+  <text x="160" y="210" fill="#ffffff" font-size="44" font-weight="700" font-family="Inter, Arial, sans-serif">Troubleshooting &amp; Debugging</text>
+  <text x="160" y="270" fill="#cbd5e1" font-size="24" font-family="Inter, Arial, sans-serif">Certificate placeholder</text>
+  <rect x="160" y="360" width="620" height="18" rx="9" fill="#ffffff" fill-opacity=".16"/>
+  <rect x="160" y="410" width="540" height="18" rx="9" fill="#ffffff" fill-opacity=".12"/>
+  <rect x="160" y="460" width="460" height="18" rx="9" fill="#ffffff" fill-opacity=".12"/>
+  <circle cx="920" cy="470" r="120" fill="#ffffff" fill-opacity=".08"/>
+  <text x="920" y="488" text-anchor="middle" fill="#ffffff" font-size="34" font-weight="700" font-family="Inter, Arial, sans-serif">2024</text>
+</svg>
