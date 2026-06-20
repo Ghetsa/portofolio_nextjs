@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000">
+  <rect width="1600" height="1000" rx="64" fill="#111111"/>
+  <rect x="80" y="80" width="1440" height="840" rx="40" fill="#fdb6e9" stroke="#111111" stroke-width="8"/>
+  <text x="140" y="220" fill="#111111" font-size="52" font-weight="800" font-family="Inter, Arial, sans-serif">Facial Expression Detection</text>
+  <text x="140" y="280" fill="#111111" font-size="24" font-family="Inter, Arial, sans-serif">ML-based recognition</text>
+</svg>

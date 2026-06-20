@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1400" role="img" aria-label="Profile card">
+  <rect width="1200" height="1400" rx="80" fill="#081120"/>
+  <circle cx="250" cy="200" r="260" fill="#389FE1" fill-opacity=".28"/>
+  <circle cx="980" cy="1180" r="300" fill="#FFE401" fill-opacity=".18"/>
+  <rect x="80" y="80" width="1040" height="1240" rx="54" fill="#0b1628" fill-opacity=".82" stroke="#ffffff" stroke-opacity=".1"/>
+  <circle cx="600" cy="560" r="170" fill="#ffffff" fill-opacity=".12"/>
+  <circle cx="600" cy="520" r="120" fill="#ffffff" fill-opacity=".14"/>
+  <path d="M470 674c33-47 72-70 130-70s97 23 130 70" fill="none" stroke="#fff" stroke-width="18" stroke-linecap="round"/>
+  <rect x="250" y="820" width="700" height="36" rx="18" fill="#ffffff" fill-opacity=".22"/>
+  <rect x="330" y="882" width="540" height="22" rx="11" fill="#ffffff" fill-opacity=".16"/>
+  <rect x="340" y="930" width="520" height="22" rx="11" fill="#ffffff" fill-opacity=".14"/>
+  <rect x="400" y="1020" width="400" height="86" rx="30" fill="#ffe401" fill-opacity=".92"/>
+  <text x="600" y="1076" text-anchor="middle" fill="#081120" font-size="34" font-weight="700" font-family="Inter, Arial, sans-serif">Ghetsa Ramadhani</text>
+</svg>

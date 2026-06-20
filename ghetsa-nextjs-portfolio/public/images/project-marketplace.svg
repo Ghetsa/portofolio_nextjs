@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000">
+  <rect width="1600" height="1000" rx="64" fill="#0b1628"/>
+  <rect x="80" y="80" width="1440" height="840" rx="44" fill="#111c31" stroke="#fff" stroke-opacity=".08"/>
+  <text x="160" y="220" fill="#fff" font-size="48" font-weight="700" font-family="Inter, Arial, sans-serif">Marketplace</text>
+  <text x="160" y="280" fill="#cbd5e1" font-size="24" font-family="Inter, Arial, sans-serif">Next.js commerce platform</text>
+</svg>
